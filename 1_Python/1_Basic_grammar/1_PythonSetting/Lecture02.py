@@ -1,0 +1,15 @@
+# 10 +20 의 연산 결과 출력
+print(10+20)
+# Hello python 출력
+print('Hello python~')
+print('이재명')
+print('31살')
+print('남자')
+print('zerobase@zerobase.com')
+print('서울시 동작구')
+print('크로스핏')
+print('-------------------------')
+print('파이썬 4강')
+print('자바 3강')
+print('C언어 2강')
+print('HTML 1강')
